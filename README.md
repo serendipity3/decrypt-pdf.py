@@ -16,7 +16,7 @@ pip install PyPDF2
 ```
 if you have not installed it yet.
 
-For Windows OS, `readline` is also needed to work.
+For Windows OS, `readline` is also needed.
 
 ### below Python 3.9
 ```
