@@ -10,6 +10,12 @@ if you have not installed it yet.
 Then, type `python3 decrypt.py` and follow the instruction.
 
 ## For Windows
+You need to install PyPDF2:
+```
+pip install PyPDF2
+```
+if you have not installed it yet.
+
 For Windows OS, `readline` is also needed to work.
 
 ### below Python 3.9
